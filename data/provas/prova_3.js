@@ -1,0 +1,401 @@
+window.PROVA_ATUAL = {
+  "id": 3,
+  "categoria": "legislacao",
+  "materia": "Legislação",
+  "titulo": "Classificação e Registro de Veículos",
+  "duracao": 60,
+  "minimoAprovacao": 21,
+  "totalQuestoes": 30,
+  "questoes": [
+    {
+      "n": 1,
+      "mat": "Legislação",
+      "txt": "Automotor; elétrico, de propulsão humana, de tração animal, reboque ou semirreboque, é a classificação dos veículos quanto a:",
+      "ops": [
+        "A) Espécie.",
+        "B) Categoria.",
+        "C) Carga.",
+        "D) Tração."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 2,
+      "mat": "Legislação",
+      "txt": "É considerado veículo de passageiro:",
+      "ops": [
+        "A) Carroça.",
+        "B) Caminhão.",
+        "C) Caminhonete.",
+        "D) Bicicleta."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 3,
+      "mat": "Legislação",
+      "txt": "De acordo com a legislação de trânsito, os veículos quanto à espécie são:",
+      "ops": [
+        "A) Oficial, particular, aluguel e de corrida.",
+        "B) Particular, aluguel e escolar.",
+        "C) Passageiros, carga, missão diplomática e aluguel.",
+        "D) Passageiros, carga, carga, misto, misto, competição, competição, tração, tração, especial especial e coleção. e coleção."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 4,
+      "mat": "Legislação",
+      "txt": "Assinale a alternativa correta. Não é considerado veículo de passageiros:",
+      "ops": [
+        "A) Motoneta.",
+        "B) Bicicleta.",
+        "C) Carroça",
+        "D) Triciclo."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 5,
+      "mat": "Legislação",
+      "txt": "Bonde, triciclo, bicicleta, reboque ou semirreboque são veículos, quanto à espécie, classificados como:",
+      "ops": [
+        "A) Misto.",
+        "B) Passageiros.",
+        "C) Tração.",
+        "D) Especial."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 6,
+      "mat": "Legislação",
+      "txt": "Camioneta e utilitário são veículos, quanto à espécie, classificados como:",
+      "ops": [
+        "A) Tração.",
+        "B) Passageiros.",
+        "C) Misto.",
+        "D) Carga."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 7,
+      "mat": "Legislação",
+      "txt": "Caminhonete e motocicleta são veículos, quanto à espécie, classificados como:",
+      "ops": [
+        "A) Passageiros.",
+        "B) Carga.",
+        "C) Misto.",
+        "D) Tração."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 8,
+      "mat": "Legislação",
+      "txt": "Segundo o Código de Trânsito Brasileiro a identificação externa de um veículo de duas rodas é feita por meio:",
+      "ops": [
+        "A) Do registro de propriedade do veículo.",
+        "B) Do número do motor.",
+        "C) Das placas dianteira e traseira com caracteres iguais as do registro do veículo.",
+        "D) Da placa traseira com caracteres iguais ao do registro do veículo."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 9,
+      "mat": "Legislação",
+      "txt": "Assinale a alternativa que responda à questão: O quadriciclo é um veículo classificado quanto à espécie em de _______ e de ________.",
+      "ops": [
+        "A) Misto; competição.",
+        "B) Passageiros; tração.",
+        "C) Passageiros; carga.",
+        "D) Espécie; coleção."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 10,
+      "mat": "Legislação",
+      "txt": "Veículos destinados à formação de condutores são classificados, quanto à categoria, em:",
+      "ops": [
+        "A) De aluguel.",
+        "B) De aprendizagem.",
+        "C) Particular.",
+        "D) Oficial."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 11,
+      "mat": "Legislação",
+      "txt": "As características de um veículo podem ser modificadas quando:",
+      "ops": [
+        "A) Sempre que for envolvido em acidente.",
+        "B) Houver prévia autorização da autoridade de trânsito.",
+        "C) O proprietário simplesmente quitar seus débitos com o órgão competente.",
+        "D) O infrator não houver completado 20 pontos."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 12,
+      "mat": "Legislação",
+      "txt": "As bicicletas deverão ser dotadas dos seguintes equipamentos obrigatórios:",
+      "ops": [
+        "A) Campainha, sinalização noturna dianteira, traseira, lateral e nos pedais, e espelho retrovisor do lado esquerdo.",
+        "B) Campainha e espelho retrovisor do lado esquerdo e do lado direito.",
+        "C) Campainha e sinalização noturna.",
+        "D) Cinto de segurança."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 13,
+      "mat": "Legislação",
+      "txt": "O transporte de passageiros em veículo de carga será permitido:",
+      "ops": [
+        "A) Onde não houver linha regular de ônibus para transportar trabalhadores rurais.",
+        "B) Onde não houver linha regular de ônibus e autorizado pela autoridade competente, obedecidas as condições de segurança.",
+        "C) Desde que obedecidas as condições de segurança, para o transporte de desportistas.",
+        "D) Para o transporte de estudantes nas zonas rurais."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 14,
+      "mat": "Legislação",
+      "txt": "Assinale a alternativa que completa a questão: O veículo será identificado internamente por caracteres gravados no _________ ou no ____________ e externamente por meio de ___________ dianteira e traseira.",
+      "ops": [
+        "A) Radiador; cilindro; lanternas.",
+        "B) Motor; cárter; rodas.",
+        "C) Chassi; monobloco; placas.",
+        "D) Carburador; chassi; placas."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 15,
+      "mat": "Legislação",
+      "txt": "O ciclomotor é veículo classificado quanto à espécie como:",
+      "ops": [
+        "A) Misto.",
+        "B) Tração.",
+        "C) Especial.",
+        "D) Passageiros."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 16,
+      "mat": "Legislação",
+      "txt": "São dispensados da placa dianteira os veículos de:",
+      "ops": [
+        "A) Quatro rodas.",
+        "B) Mais de quatro rodas.",
+        "C) Duas ou três rodas.",
+        "D) Todos os veículos são obrigados a ter placa dianteira."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 17,
+      "mat": "Legislação",
+      "txt": "As placas com as cores verde e amarela da Bandeira Nacional são usadas pelos veículos de representação pessoal do(s):",
+      "ops": [
+        "A) Governadores.",
+        "B) Presidente e Vice-Presidente da República.",
+        "C) Prefeitos.",
+        "D) Secretários municipais."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 18,
+      "mat": "Legislação",
+      "txt": "Ao registrar o veículo automotor, o órgão executivo de trânsito expedirá o documento:",
+      "ops": [
+        "A) Certificado ambiental.",
+        "B) Certificado de Segurança Veicular.",
+        "C) Certificado de Registro de Veículo.",
+        "D) Certificado de Registro e Licenciamento de Veículo."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 19,
+      "mat": "Legislação",
+      "txt": "Constitui documento de porte obrigatório:",
+      "ops": [
+        "A) Certificado de Registro de Veículo.",
+        "B) Autorização para Conduzir Ciclomotor, Permissão para Dirigir ou Carteira Nacional de Habilitação.",
+        "C) Comprovante do pagamento do Seguro Obrigatório.",
+        "D) Comprovante do pagamento atualizado do IPVA."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 20,
+      "mat": "Legislação",
+      "txt": "A expedição de novo Certificado de Registro de Veículo, dar-se-á quando:",
+      "ops": [
+        "A) Houver transferência de propriedade.",
+        "B) Houver mudanças nos equipamentos obrigatórios.",
+        "C) De doze em doze meses.",
+        "D) Após o pagamento do I P V A."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 21,
+      "mat": "Legislação",
+      "txt": "No caso de transferência de propriedade, o prazo para o proprietário adotar as providências necessárias à efetivação da expedição de novo Certificado de Registro de Veículo é de:",
+      "ops": [
+        "A) 15 dias.",
+        "B) De imediato.",
+        "C) 30 dias.",
+        "D) A qualquer tempo."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 22,
+      "mat": "Legislação",
+      "txt": "A expedição de novo Certificado de Registro de Veículo é obrigatória quando:",
+      "ops": [
+        "A) O proprietário mudar de endereço no mesmo Município.",
+        "B) Houver mudança de categoria.",
+        "C) O veículo circular acoplado a semirreboque.",
+        "D) O veículo for importado por membro de missão diplomática."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 23,
+      "mat": "Legislação",
+      "txt": "O proprietário de veículo irrecuperável ou definitivamente desmontado deverá requerer a baixa do registro, sendo vedada à remontagem do veículo sobre o mesmo ______________, de forma a manter o registro anterior.",
+      "ops": [
+        "A) Chassi",
+        "B) Agregados",
+        "C) Monobloco",
+        "D) Número de Registro"
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 24,
+      "mat": "Legislação",
+      "txt": "O Licenciamento Anual do Veículo vincula-se ao:",
+      "ops": [
+        "A) Pagamento de exames de avaliação psicológica e aptidão física.",
+        "B) Pagamento do seguro total e DPVAT.",
+        "C) Pagamento de IPVA, Seguro Obrigatório e inexistência de débitos de multas de trânsito.",
+        "D) Pagamento de IPVA e Seguro Obrigatório."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 25,
+      "mat": "Legislação",
+      "txt": "Caso o veículo tenha pendência de multa por infração de trânsito, não poderá:",
+      "ops": [
+        "A) Renovar o Certificado de Registro do Veículo.",
+        "B) Renovar o Licenciamento Anual do Veículo.",
+        "C) Renovar o Seguro Obrigatório.",
+        "D) Adquirir novo veículo."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 26,
+      "mat": "Legislação",
+      "txt": "O órgão executivo de trânsito não expedirá novo Certificado de Registro de Veículo com apresentação de:",
+      "ops": [
+        "A) Certificado de segurança veicular.",
+        "B) Débitos fiscais e de multas de trânsito e ambientais, vinculadas ao veículo.",
+        "C) Autorização do Ministério das Relações Exteriores.",
+        "D) Certificado de inalteração das características do veículo."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 27,
+      "mat": "Legislação",
+      "txt": "Assinale a alternativa correta:",
+      "ops": [
+        "A) O veículo será licenciado mesmo estando em débito com tributos, encargos e multas de trânsito e ambientais.",
+        "B) Os veículos novos estão sujeitos ao licenciamento durante o trajeto entre a fábrica e o município de destino.",
+        "C) É obrigatório o porte do Certificado de Licenciamento Anual.",
+        "D) O primeiro licenciamento não será feito simultaneamente ao registro."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 28,
+      "mat": "Legislação",
+      "txt": "Os veículos destinados à condução coletiva de escolares, poderão circular nas vias com autorização emitida pelo:",
+      "ops": [
+        "A) Órgão e entidade executivos de trânsito do Município.",
+        "B) Órgão e entidade executivos de trânsito do Estado e do Distrito Federal.",
+        "C) Órgão e entidade executivos rodoviários do Estado e do Distrito Federal.",
+        "D) Órgão máximo executivo de trânsito da União."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 29,
+      "mat": "Legislação",
+      "txt": "A realização de qualquer ato público que interfira no trânsito depende de:",
+      "ops": [
+        "A) Licença especial do Prefeito.",
+        "B) Prévia autorização da Autoridade de Trânsito com circunscrição sobre a via.",
+        "C) Autorização do Governador.",
+        "D) Autorização de todos os moradores locais."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 30,
+      "mat": "Legislação",
+      "txt": "Marca, modelo, ano de fabricação, cor, número do chassi, são:",
+      "ops": [
+        "A) Acessórios do veículo.",
+        "B) Equipamentos obrigatórios.",
+        "C) Características legais e essenciais do veículo.",
+        "D) Elementos utilizados, somente, para controle das montadoras de veículos."
+      ],
+      "img": null,
+      "ok": 1
+    }
+  ]
+};

@@ -1,0 +1,402 @@
+{
+  "id": 39,
+  "numeroCompleto": 2,
+  "categoria": "completo",
+  "materia": "Simulado Completo",
+  "titulo": "Simulado Completo 02 — Modo Prova Real",
+  "duracao": 60,
+  "minimoAprovacao": 21,
+  "totalQuestoes": 30,
+  "questoes": [
+    {
+      "n": 1,
+      "mat": "Legislação de Trânsito",
+      "txt": "Qual órgão é o coordenador máximo normativo e consultivo do Sistema Nacional de Trânsito (SNT), responsável por estabelecer as normas e resoluções regulamentares do CTB?",
+      "ops": [
+        "A) DETRAN.",
+        "B) CONTRAN.",
+        "C) PRF.",
+        "D) JARI."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 2,
+      "mat": "Placas de Sinalização",
+      "txt": "A placa de regulamentação R-1 (formato octogonal) determina ao condutor:",
+      "ops": [
+        "A) Dê a preferência.",
+        "B) Parada obrigatória.",
+        "C) Parada obrigatória à frente.",
+        "D) Semáforo à frente."
+      ],
+      "img": "assets/questoes/p8_q26.png",
+      "ok": 1
+    },
+    {
+      "n": 3,
+      "mat": "Direção Defensiva",
+      "txt": "O conjunto de condições desfavoráveis que podem aumentar o risco de acidentes — como chuva, neblina, buracos na pista, sono e estresse — é conhecido na Direção Defensiva como:",
+      "ops": [
+        "A) Infrações administrativas.",
+        "B) Condições adversas.",
+        "C) Fatores mecânicos obrigatórios.",
+        "D) Sinais de trânsito ocultos."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 4,
+      "mat": "Legislação de Trânsito",
+      "txt": "Em rodovias de pista simples situadas fora dos perímetros urbanos, o uso do farol baixo durante o dia é obrigatório para os veículos que:",
+      "ops": [
+        "A) Estejam trafegando abaixo de 60 km/h.",
+        "B) Não dispuserem de luz de rodagem diurna (DRL).",
+        "C) Sejam exclusivamente veículos de carga.",
+        "D) Possuam apenas dois eixos e cor escura."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 5,
+      "mat": "Primeiros Socorros",
+      "txt": "Em um acidente envolvendo motociclista caído na via, o que o socorrista leigo NÃO deve fazer em nenhuma hipótese, salvo risco extremo de morte iminente (como incêndio)?",
+      "ops": [
+        "A) Retirar o capacete da vítima, pois isso pode agravar lesões na coluna cervical.",
+        "B) Sinalizar a via e acionar o SAMU (192) ou Bombeiros (193).",
+        "C) Conversar com a vítima para mantê-la calma e imóvel.",
+        "D) Verificar se a vítima está consciente e respirando."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 6,
+      "mat": "Placas de Sinalização",
+      "txt": "A placa de advertência A-4b alerta o condutor para:",
+      "ops": [
+        "A) Curva acentuada em “S” à esquerda.",
+        "B) Curva acentuada em “S” à direita.",
+        "C) Pista sinuosa à direita.",
+        "D) Curva acentuada à direita."
+      ],
+      "img": "assets/questoes/p7_q4.png",
+      "ok": 1
+    },
+    {
+      "n": 7,
+      "mat": "Legislação de Trânsito",
+      "txt": "Qual é a velocidade máxima permitida nas vias de trânsito rápido urbanas, quando não houver sinalização regulamentadora em contrário?",
+      "ops": [
+        "A) 80 km/h.",
+        "B) 70 km/h.",
+        "C) 100 km/h.",
+        "D) 60 km/h."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 8,
+      "mat": "Direção Defensiva",
+      "txt": "Qual é a postura ergonômica correta ao volante para garantir segurança e menor fadiga em viagens?",
+      "ops": [
+        "A) Costas bem apoiadas no encosto, braços levemente flexionados, mãos na posição '9h15' (ou '10h10') e encosto de cabeça na altura dos olhos/orelhas.",
+        "B) Dirigir com apenas uma mão no topo do volante e o outro braço apoiado na janela.",
+        "C) Banco totalmente reclinado para trás e braços esticados ao máximo.",
+        "D) Banco muito próximo ao volante com o peito encostado na direção."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 9,
+      "mat": "Meio Ambiente e Cidadania",
+      "txt": "A poluição sonora gerada pelos veículos automotores pode ser significativamente reduzida pelo condutor quando ele:",
+      "ops": [
+        "A) Usa o som automotivo no volume máximo com os vidros abertos.",
+        "B) Acelera fortemente o motor com o carro parado no semáforo.",
+        "C) Retira o silenciador do escapamento para dar mais potência ao motor.",
+        "D) Mantém o sistema de escapamento original em bom estado e usa a buzina apenas em toques breves quando indispensável à segurança."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 10,
+      "mat": "Legislação de Trânsito",
+      "txt": "Pelo CTB atualizado, o transporte de crianças com idade inferior a 10 anos que NÃO tenham atingido 1,45 m de altura deve ser feito:",
+      "ops": [
+        "A) No banco dianteiro, no colo de um adulto com cinto.",
+        "B) No banco traseiro, utilizando o dispositivo de retenção adequado (bebê conforto, cadeirinha ou assento de elevação) conforme idade, peso e altura.",
+        "C) No banco dianteiro com o airbag ligado.",
+        "D) Em qualquer banco do veículo, desde que usando apenas o cinto de dois pontos."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 11,
+      "mat": "Mecânica Básica",
+      "txt": "Os sulcos da banda de rodagem dos pneus têm como função principal escoar a água da pista e garantir aderência. Qual é a profundidade mínima legal desses sulcos (indicada pelo TWI)?",
+      "ops": [
+        "A) 0,5 milímetro.",
+        "B) 10,0 milímetros.",
+        "C) 5,0 milímetros.",
+        "D) 1,6 milímetro."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 12,
+      "mat": "Placas de Sinalização",
+      "txt": "A placa de regulamentação R-6c indica ao condutor que é:",
+      "ops": [
+        "A) Proibido parar.",
+        "B) Proibido estacionar.",
+        "C) Proibido parar e estacionar.",
+        "D) Área de estacionamento."
+      ],
+      "img": "assets/questoes/p7_q15.png",
+      "ok": 2
+    },
+    {
+      "n": 13,
+      "mat": "Direção Defensiva",
+      "txt": "O consumo de bebidas alcoólicas, mesmo em pequenas quantidades, afeta o condutor principalmente porque:",
+      "ops": [
+        "A) Elimina completamente o risco de sono ao volante.",
+        "B) Melhora o tempo de reação em curvas fechadas.",
+        "C) Reduz os reflexos, prejudica a noção de distância/velocidade e gera falsa sensação de confiança.",
+        "D) Aumenta o campo de visão periférica durante a noite."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 14,
+      "mat": "Legislação de Trânsito",
+      "txt": "Qual é a punição em pontos no prontuário para infrações classificadas, respectivamente, como Leve, Média, Grave e Gravíssima?",
+      "ops": [
+        "A) 1, 3, 5 e 10 pontos.",
+        "B) 3, 5, 7 e 9 pontos.",
+        "C) 2, 4, 6 e 8 pontos.",
+        "D) 3, 4, 5 e 7 pontos."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 15,
+      "mat": "Primeiros Socorros",
+      "txt": "Em uma queimadura térmica recente na pele de uma vítima de acidente, a medida de primeiros socorros recomendada é:",
+      "ops": [
+        "A) Estourar todas as bolhas formadas para aliviar a pressão.",
+        "B) Passar manteiga, pasta de dente ou pó de café sobre o local queimado.",
+        "C) Resfriar a área queimada com água limpa em temperatura ambiente (fria) e cobrir com pano limpo e úmido sem apertar.",
+        "D) Arrancar imediatamente as roupas que estiverem grudadas na pele queimada."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 16,
+      "mat": "Legislação de Trânsito",
+      "txt": "Ao aproximar-se de uma rotatória sem sinalização específica, qual veículo tem a preferência de passagem?",
+      "ops": [
+        "A) O veículo que já estiver circulando por ela.",
+        "B) O veículo que vier pela via de maior largura.",
+        "C) O veículo que está entrando na rotatória pela esquerda.",
+        "D) O veículo que trafegar em maior velocidade."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 17,
+      "mat": "Direção Defensiva",
+      "txt": "Ao entrar em uma curva acentuada em rodovia, o procedimento defensivo correto para evitar a perda de controle pela força centrífuga é:",
+      "ops": [
+        "A) Frear bruscamente exatamente no meio da curva.",
+        "B) Mudar para uma marcha mais alta na entrada da curva.",
+        "C) Reduzir a velocidade ANTES de iniciar a curva e manter aceleração suave e constante durante o contorno.",
+        "D) Pisar na embreagem e fazer a curva em ponto morto ('banguela')."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 18,
+      "mat": "Meio Ambiente e Cidadania",
+      "txt": "Manter o motor regulado, calibrar os pneus semanalmente e evitar arrancadas bruscas são atitudes que:",
+      "ops": [
+        "A) Não influenciam na preservação do meio ambiente.",
+        "B) Aumentam o desgaste das peças e elevam a emissão de poluentes.",
+        "C) Servem apenas para veículos movidos a diesel.",
+        "D) Reduzem o consumo de combustível e diminuem a emissão de gases poluentes na atmosfera."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 19,
+      "mat": "Placas de Sinalização",
+      "txt": "A placa de advertência A-42b avisa o condutor sobre:",
+      "ops": [
+        "A) Mão dupla adiante.",
+        "B) Sentido duplo.",
+        "C) Fim de pista dupla.",
+        "D) Início de pista dupla."
+      ],
+      "img": "assets/questoes/p7_q14.png",
+      "ok": 2
+    },
+    {
+      "n": 20,
+      "mat": "Legislação de Trânsito",
+      "txt": "Deixar o condutor ou o passageiro de usar o cinto de segurança é infração de natureza:",
+      "ops": [
+        "A) Média, sujeita apenas a multa.",
+        "B) Gravíssima, com suspensão imediata da CNH.",
+        "C) Grave, sujeita a multa e retenção do veículo até colocação do cinto pelo infrator.",
+        "D) Leve, com advertência verbal."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 21,
+      "mat": "Direção Defensiva",
+      "txt": "Um condutor está sentindo muito sono e cansaço durante uma viagem noturna. A única medida verdadeiramente segura é:",
+      "ops": [
+        "A) Aumentar o volume do rádio e abrir os vidros para tomar vento.",
+        "B) Tomar bastante água gelada sem interromper a direção.",
+        "C) Acelerar mais rápido para chegar logo ao destino.",
+        "D) Parar o veículo em um local seguro (posto ou ponto de apoio) e descansar ou dormir antes de prosseguir."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 22,
+      "mat": "Legislação de Trânsito",
+      "txt": "A faixa longitudinal amarela dupla contínua pintada no centro da pista indica ao condutor que:",
+      "ops": [
+        "A) A via é de duplo sentido de circulação e a ultrapassagem é proibida para ambos os sentidos.",
+        "B) É permitido estacionar no centro da via.",
+        "C) A ultrapassagem é permitida apenas para motocicletas.",
+        "D) A via é de sentido único e a ultrapassagem é livre."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 23,
+      "mat": "Mecânica Básica",
+      "txt": "A função do sistema de freios ABS (Sistema Antitravamento) em uma frenagem de emergência é:",
+      "ops": [
+        "A) Impedir o travamento das rodas, permitindo que o condutor mantenha o controle da direção enquanto freia.",
+        "B) Substituir completamente a necessidade de trocar as pastilhas de freio.",
+        "C) Fazer o veículo parar instantaneamente sem necessidade de pisar no pedal.",
+        "D) Desligar o motor automaticamente para economizar combustível."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 24,
+      "mat": "Legislação de Trânsito",
+      "txt": "O pagamento de uma multa de trânsito realizado até a data de vencimento expressa na notificação poderá ser efetuado com desconto padrão de:",
+      "ops": [
+        "A) Não existe previsão legal de desconto.",
+        "B) 10% do seu valor.",
+        "C) 50% sem qualquer condição.",
+        "D) 20% do seu valor (ou até 40% via SNE, abrindo mão de recurso)."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 25,
+      "mat": "Primeiros Socorros",
+      "txt": "Ao verificar os sinais vitais de uma vítima de acidente de trânsito, qual é um dos locais mais indicados e práticos para sentir a pulsação?",
+      "ops": [
+        "A) No meio das costas.",
+        "B) Na artéria carótida (lateral do pescoço) ou artéria radial (no pulso).",
+        "C) Na parte superior da testa.",
+        "D) Na ponta dos dedos dos pés."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 26,
+      "mat": "Direção Defensiva",
+      "txt": "O 'ponto cego' de um veículo corresponde à:",
+      "ops": [
+        "A) Parte escura do painel de instrumentos quando o farol está desligado.",
+        "B) Região ao redor do veículo que não é visível pelos espelhos retrovisores, exigindo atenção redobrada ao mudar de faixa.",
+        "C) Área à frente do capô iluminada pelo farol alto.",
+        "D) Sombra projetada pelo veículo ao meio-dia."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 27,
+      "mat": "Meio Ambiente e Cidadania",
+      "txt": "Ao perceber um pedestre que já iniciou a travessia na faixa de pedestres sem semáforo, o condutor cidadão deve:",
+      "ops": [
+        "A) Reduzir a velocidade e parar o veículo antes da faixa, dando preferência total ao pedestre até concluir a travessia.",
+        "B) Buzinar para que o pedestre apresse o passo.",
+        "C) Desviar por trás do pedestre sem reduzir a velocidade.",
+        "D) Piscar o farol alto indicando que o veículo tem prioridade."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 28,
+      "mat": "Placas de Sinalização",
+      "txt": "A placa indicativa de serviço auxiliar SAU-19 informa a existência de:",
+      "ops": [
+        "A) Terminal Rodoviário.",
+        "B) Terminal Rodoferroviário.",
+        "C) Abastecimento.",
+        "D) Terminal Ferroviário."
+      ],
+      "img": "assets/questoes/p7_q12.png",
+      "ok": 0
+    },
+    {
+      "n": 29,
+      "mat": "Direção Defensiva",
+      "txt": "A distância total percorrida pelo veículo desde o instante em que o motorista percebe o perigo até a parada completa é chamada de:",
+      "ops": [
+        "A) Distância lateral.",
+        "B) Distância de frenagem.",
+        "C) Distância de reação.",
+        "D) Distância de parada."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 30,
+      "mat": "Legislação de Trânsito",
+      "txt": "Em relação à habilitação na categoria 'B', o condutor está autorizado a dirigir veículos motorizados de quatro rodas cujo peso bruto total (PBT) não exceda:",
+      "ops": [
+        "A) 2.000 kg e lotação de até 5 lugares.",
+        "B) 3.500 kg incluindo motocicletas e ciclomotores.",
+        "C) 3.500 kg e cuja lotação não exceda a 8 lugares, excluído o do motorista.",
+        "D) 6.000 kg e lotação de até 12 passageiros."
+      ],
+      "img": null,
+      "ok": 2
+    }
+  ]
+}

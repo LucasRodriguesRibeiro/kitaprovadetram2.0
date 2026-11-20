@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Simulado Oficial Detran | Kit Aprova Detran 2.0</title>
+  <link rel="icon" type="image/png" href="assets/logo-aprova-detran.png">
+  <link rel="apple-touch-icon" href="assets/logo-aprova-detran.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Montserrat:wght@600;700;800&display=swap" rel="stylesheet">
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
+  <link href="assets/simulados.css" rel="stylesheet">
+</head>
+<body>
+  <header class="topbar">
+    <div class="shell nav">
+      <a class="brand" href="index.html">
+        <img src="assets/logo-aprova-detran.png" alt="Logo Kit Aprova Detran 2.0" class="brand-logo">
+        <span><small>PLATAFORMA DE ESTUDOS</small><strong>KIT APROVA DETRAN 2.0</strong></span>
+      </a>
+      <span class="credential"><i class="fa-solid fa-award"></i> Método Atualizado 2.0</span>
+    </div>
+  </header>
+
+  <main id="app">
+    <header class="sim-hdr">
+      <div class="sim-hdr-inner">
+        <button class="back-btn" id="sexit"><i class="fa-solid fa-arrow-left"></i> Sair</button>
+        <span class="sim-title"><i class="fa-solid fa-clipboard-check"></i> <span id="sim-title">Carregando simulado...</span></span>
+        <div class="sim-timer-box"><i class="fa-solid fa-clock"></i><span class="sim-clock" id="sclock">60:00</span></div>
+      </div>
+    </header>
+
+    <div class="sim-body">
+      <div class="sim-q-card" id="sqa"></div>
+      <aside class="sim-side">
+        <div class="sim-side-card">
+          <div class="sim-side-head">
+            <span class="sim-side-title">Grade de Questões</span>
+            <span class="sim-side-prog" id="spg">0/30 respondidas</span>
+          </div>
+          <div class="sim-q-grid" id="sgd"></div>
+          <p class="sim-side-legend">
+            <b>Verde</b> = respondida · <b>Azul</b> = questão atual<br>
+            Você pode clicar no número de qualquer questão para ir direto a ela ou conferir se já foi respondida.
+          </p>
+        </div>
+      </aside>
+    </div>
+  </main>
+
+  <div class="mobile-mod-backdrop" id="mmod-backdrop"></div>
+  <aside class="mobile-mod-sheet" id="mmod-sheet" aria-label="Menu rápido de módulos">
+    <div class="mobile-mod-head">
+      <strong><i class="fa-solid fa-table-cells-large" style="color:#2563eb;margin-right:6px"></i> Ir direto para o Módulo</strong>
+      <button class="mobile-mod-close" type="button" id="mmod-close" aria-label="Fechar"><i class="fa-solid fa-xmark"></i></button>
+    </div>
+    <div class="mobile-mod-grid">
+      <a class="mobile-mod-item" href="index.html#modulo/0" style="--mc:#2563eb"><i class="fa-solid fa-id-card"></i><span>Guia da CNH</span></a>
+      <a class="mobile-mod-item" href="index.html#modulo/1" style="--mc:#f59e0b"><i class="fa-solid fa-book-open"></i><span>Prova Teórica</span></a>
+      <a class="mobile-mod-item" href="index.html#modulo/2" style="--mc:#4f46e5"><i class="fa-solid fa-brain"></i><span>Psicotécnico</span></a>
+      <a class="mobile-mod-item" href="simulados.html" style="--mc:#e11d48"><i class="fa-solid fa-clipboard-check"></i><span>Simulados Detran</span></a>
+    </div>
+  </aside>
+  <nav class="mobile-bottom-nav" aria-label="Navegação rápida mobile">
+    <a class="mnav-btn" href="simulados.html"><i class="fa-solid fa-arrow-left"></i><span>Voltar</span></a>
+    <a class="mnav-btn" href="index.html#inicio"><i class="fa-solid fa-house"></i><span>Início</span></a>
+    <a class="mnav-btn" href="index.html#modulo/1"><i class="fa-solid fa-book-open"></i><span>Estudos</span></a>
+    <a class="mnav-btn active" href="simulados.html"><i class="fa-solid fa-clipboard-check"></i><span>Simulados</span></a>
+    <button class="mnav-btn" type="button" id="mnav-mods"><i class="fa-solid fa-table-cells-large"></i><span>Módulos</span></button>
+  </nav>
+  <script>
+    (function(){
+      var sheet=document.getElementById('mmod-sheet'),backdrop=document.getElementById('mmod-backdrop'),modsBtn=document.getElementById('mnav-mods');
+      function closeSheet(){sheet.classList.remove('open');backdrop.classList.remove('open');modsBtn.classList.remove('active')}
+      modsBtn.onclick=function(){var isOpen=sheet.classList.toggle('open');backdrop.classList.toggle('open',isOpen);modsBtn.classList.toggle('active',isOpen)};
+      backdrop.onclick=closeSheet;
+      document.getElementById('mmod-close').onclick=closeSheet;
+    })();
+  </script>
+
+  <script src="assets/carregar-simulado.js"></script>
+</body>
+</html>

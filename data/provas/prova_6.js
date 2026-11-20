@@ -1,0 +1,401 @@
+window.PROVA_ATUAL = {
+  "id": 6,
+  "categoria": "legislacao",
+  "materia": "Legislação",
+  "titulo": "Infrações e Penalidades de Trânsito — Parte 1",
+  "duracao": 60,
+  "minimoAprovacao": 21,
+  "totalQuestoes": 30,
+  "questoes": [
+    {
+      "n": 1,
+      "mat": "Legislação",
+      "txt": "O condutor que for multado por desobedecer a prontuário a pontuação equivalente a:",
+      "ops": [
+        "A) Quatro pontos.",
+        "B) Três pontos.",
+        "C) Sete pontos.",
+        "D) Cinco pontos."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 2,
+      "mat": "Legislação",
+      "txt": "É motivo para apreensão do veículo, quando o retenção condutor for surpreendido dirigindo:",
+      "ops": [
+        "A) Sem usar lentes corretoras.",
+        "B) Com a validade da Carteira Nacional de Habilitação vencida há mais de trinta dias.",
+        "C) Sob a influência de álcool.",
+        "D) Sem possuir documento de habilitação. Todas as alternativas estão corretas"
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 3,
+      "mat": "Legislação",
+      "txt": "O que não é obrigatório constar no auto de infração?",
+      "ops": [
+        "A) Identificação do veículo.",
+        "B) Prontuário do condutor.",
+        "C) Identificação do agente fiscalizador.",
+        "D) Tipificação da infração cometida."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 4,
+      "mat": "Legislação",
+      "txt": "Dirigir veículo com Carteira Nacional de Habilitação ou Permissão para Dirigir cassada ou com suspensão do direito de dirigir é infração gravíssima, gerando como penalidade:",
+      "ops": [
+        "A) Multa (cinco vezes) e apreensão do veículo.",
+        "B) Multa (duas vezes) e advertência por escrito.",
+        "C) Multa (três vezes) e retenção do veículo até apresentação de condutor habilitado.",
+        "D) Multa simples e frequência obrigatória em curso."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 5,
+      "mat": "Legislação",
+      "txt": "O condutor habilitado na categoria “B” que dirigir uma motocicleta será punido com:",
+      "ops": [
+        "A) Multa e advertência pelo Diretor Geral do DETRAN.",
+        "B) Multa e cassação da Carteira Nacional de Habilitação.",
+        "C) Multa e prisão.",
+        "D) Multa gravíssima (x2) e retenção do veículo até a apresentação de condutor habilitado."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 6,
+      "mat": "Legislação",
+      "txt": "Dirigir veículo sem as adaptações impostas pela Comissão de Exames Especiais do DETRAN por ocasião da concessão ou da renovação de licença para dirigir, constitui infração _____________, gerando como penalidade ____________.",
+      "ops": [
+        "A) Gravíssima; retenção do veículo.",
+        "B) Gravíssima; multa.",
+        "C) Grave; multa (três vezes).",
+        "D) Grave; advertência por escrito."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 7,
+      "mat": "Legislação",
+      "txt": "A pena de detenção atribuída ao condutor que pratica lesão corporal culposa na direção de veículo automotor é de:",
+      "ops": [
+        "A) 1 a 2 anos.",
+        "B) 1 mês a 2 anos.",
+        "C) 6 meses a 2 anos.",
+        "D) 2 a 4 anos."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 8,
+      "mat": "Legislação",
+      "txt": "A multa reparatória, determinada pelo Código de Trânsito Brasileiro destina-se a:,",
+      "ops": [
+        "A) Reparar ou indenizar prejuízo material que tenha resultado de crime.",
+        "B) Indenizar qualquer prejuízo material.",
+        "C) Suspender a penalidade de cassação da Carteira Nacional de Habilitação.",
+        "D) Indenizar dano moral."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 9,
+      "mat": "Legislação",
+      "txt": "O pagamento da multa poderá ser efetuado até a data do vencimento expressa na notificação, por:",
+      "ops": [
+        "A) 100% do seu valor.",
+        "B) 80% do seu valor.",
+        "C) 50% do seu valor.",
+        "D) 90% do seu valor"
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 10,
+      "mat": "Legislação",
+      "txt": "A notificação da penalidade da multa a pessoal de missões diplomáticas, de repartições consulares de carreira e de seus integrantes será remetida ao:",
+      "ops": [
+        "A) Ministério do Exército.",
+        "B) Ministério da Justiça.",
+        "C) Ministério das Cidades.",
+        "D) Ministério das Relações Exteriores."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 11,
+      "mat": "Legislação",
+      "txt": "O pagamento da multa poderá ser efetuado, até a data do vencimento, com desconto de:",
+      "ops": [
+        "A) 40%.",
+        "B) 80%.",
+        "C) 20%.",
+        "D) 30%."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 12,
+      "mat": "Legislação",
+      "txt": "As penalidades aplicadas em razão dos crimes cometidos na direção do veículo automotor não são agravadas quando o condutor dirigir:",
+      "ops": [
+        "A) Utilizando o veículo sem placas, com placas falsas ou adulteradas.",
+        "B) Sem possuir Permissão para Dirigir ou Carteira Nacional de Habilitação.",
+        "C) Com a Carteira Nacional de Habilitação vencida há mais de trinta dias.",
+        "D) Com Permissão para Dirigir ou Carteira Nacional de Habilitação de categoria diferente da do veículo."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 13,
+      "mat": "Legislação",
+      "txt": "A pena de detenção atribuída ao condutor que pratica homicídio culposo na direção do veículo automotor é de:",
+      "ops": [
+        "A) 2 a 4 anos.",
+        "B) 6 meses a 1 ano.",
+        "C) 6 meses a 2 anos.",
+        "D) 1 a 4 anos."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 14,
+      "mat": "Legislação",
+      "txt": "As penalidades atribuídas ao condutor que dirige veículo sob a influência de álcool, são:",
+      "ops": [
+        "A) Multa (três vezes) e suspensão do direito de dirigir.",
+        "B) Multa (três vezes) e cassação do documento de habilitação.",
+        "C) Multa (cinco vezes) e advertência por escrito.",
+        "D) Multa ( dez vezes) e suspensão do direito de dirigir."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 15,
+      "mat": "Legislação",
+      "txt": "Deixar o condutor ou passageiro de usar o cinto de segurança é infração ________, gerando a penalidade de __________.",
+      "ops": [
+        "A) Grave; multa.",
+        "B) Gravíssima; multa (três vezes).",
+        "C) Gravíssima; multa (cinco vezes).",
+        "D) Gravíssima; multa."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 16,
+      "mat": "Legislação",
+      "txt": "Dirigir com falta de atenção e sem os cuidados indispensáveis à segurança do trânsito é infração punível com:",
+      "ops": [
+        "A) Multa e apreensão da Carteira Nacional de Habilitação.",
+        "B) Multa.",
+        "C) Advertência por escrito.",
+        "D) Multa e retenção do veículo."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 17,
+      "mat": "Legislação",
+      "txt": "A retenção do veículo dar-se-á quando:",
+      "ops": [
+        "A) Não estiver devidamente licenciado ou registrado.",
+        "B) Dirigir sem atenção ou sem os cuidados indispensáveis à segurança.",
+        "C) Transportar carga, arrastando-a.",
+        "D) Tiver falsificado os selos da placa."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 18,
+      "mat": "Legislação",
+      "txt": "Usar o veículo para arremessar, sobre os pedestres ou veículos, água ou detritos, ou atirar do veículo ou abandonar na via objetos ou substâncias, constitui infração:",
+      "ops": [
+        "A) Média.",
+        "B) Leve.",
+        "C) Grave.",
+        "D) Gravíssima."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 19,
+      "mat": "Legislação",
+      "txt": "Disputar corrida é infração gravíssima, gerando como penalidade:",
+      "ops": [
+        "A) Multa e cassação do documento de habilitação.",
+        "B) Multa gravíssima (cinco vezes), recolhimento do documento de habilitação e remoção do veículo.",
+        "C) Multa gravíssima (dez vezes), suspensão do direito de dirigir e apreensão do veículo.",
+        "D) Multa grave (cinco vezes) e retenção do veículo."
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 20,
+      "mat": "Legislação",
+      "txt": "Usar a buzina nas áreas urbanas, no período entre as 22 (vinte e duas) e 06 (seis) horas, é infração punível com:",
+      "ops": [
+        "A) Multa grave e remoção do veículo.",
+        "B) Multa e retenção do veículo.",
+        "C) Multa e remoção do veículo.",
+        "D) Multa."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 21,
+      "mat": "Legislação",
+      "txt": "A remoção do veículo, como medida administrativa, é aplicada quando o condutor:",
+      "ops": [
+        "A) Tiver seu veículo imobilizado na via por falta de combustível.",
+        "B) Estacionar na contramão de direção.",
+        "C) Parar o veículo em desacordo com as posições estabelecidas.",
+        "D) Deixar de prestar socorro à vítima de acidente de trânsito."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 22,
+      "mat": "Legislação",
+      "txt": "A distância que se deve guardar para que um veículo automotor possa estacionar antes ou depois da esquina é:",
+      "ops": [
+        "A) A partir de 3 (três) metros.",
+        "B) 05 (cinco) metros do bordo do alinhamento da via transversal.",
+        "C) Menos de 03 (três) metros da via transversal.",
+        "D) Entre 03 (três) e 10 (dez) metros do alinhamento de construção da via transversal."
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 23,
+      "mat": "Legislação",
+      "txt": "Na infração “Estacionar o veículo afastado da guia da calçada de cinquenta centímetros a um metro” são,, computados os seguintes pontos.",
+      "ops": [
+        "A) (07) sete.",
+        "B) (04) quatro.",
+        "C) (05) cinco.",
+        "D) (03) três."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 24,
+      "mat": "Legislação",
+      "txt": "Parar o veículo na área de cruzamento de vias, prejudicando a circulação de veículos e pedestres, nos viadutos, pontes e túneis e na contramão de direção é infração:",
+      "ops": [
+        "A) Grave",
+        "B) Gravíssima",
+        "C) Média",
+        "D) Leve"
+      ],
+      "img": null,
+      "ok": 2
+    },
+    {
+      "n": 25,
+      "mat": "Legislação",
+      "txt": "Transitar pela contramão de direção em vias com duplo sentido de circulação, exceto para ultrapassar outro veículo e apenas pelo tempo necessário, respeitada a preferência do veículo que transitar em sentido contrário é infração __________, gerando como penalidade __________.",
+      "ops": [
+        "A) Gravíssima; multa (três vezes).",
+        "B) Gravíssima; multa.",
+        "C) Grave; multa (cinco vezes).",
+        "D) Grave; multa."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 26,
+      "mat": "Legislação",
+      "txt": "Transitar com o veículo em mau estado de conservação e segurança é infração grave, gerando como penalidade e medida administrativa:",
+      "ops": [
+        "A) Multa e apreensão do veículo.",
+        "B) Remoção do veículo e multa.",
+        "C) Multa e retenção do veículo para regularização.",
+        "D) Multa."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 27,
+      "mat": "Legislação",
+      "txt": "Deixar de guardar distância de segurança lateral e frontal entre o seu veículo e os demais, bem como em relação ao bordo da pista, considerando-se, no momento, a velocidade, as condições climáticas do local da circulação e do veículo é infração:",
+      "ops": [
+        "A) Gravíssima",
+        "B) Grave",
+        "C) Média",
+        "D) Leve"
+      ],
+      "img": null,
+      "ok": 1
+    },
+    {
+      "n": 28,
+      "mat": "Legislação",
+      "txt": "O condutor que desobedecer às ordens emanadas da autoridade de trânsito ou de seus agentes será punido com:",
+      "ops": [
+        "A) Advertência escrita pelo diretor do DETRAN.",
+        "B) Multa e advertência pelo diretor do DETRAN.",
+        "C) Multa e apreensão da Carteira Nacional de Habilitação.",
+        "D) Multa."
+      ],
+      "img": null,
+      "ok": 3
+    },
+    {
+      "n": 29,
+      "mat": "Legislação",
+      "txt": "Ultrapassar outro veículo pelo acostamento, em interseções e passagens de nível é infração ________, gerando como penalidade _________.",
+      "ops": [
+        "A) Gravíssima; multa (cinco vezes).",
+        "B) Gravíssima; multa.",
+        "C) Grave; multa (cinco vezes).",
+        "D) Gravíssima; multa (três vezes)."
+      ],
+      "img": null,
+      "ok": 0
+    },
+    {
+      "n": 30,
+      "mat": "Legislação",
+      "txt": "Na infração “avançar o sinal vermelho do semáforo” são computados os seguintes pontos:",
+      "ops": [
+        "A) (03) três.",
+        "B) (05) cinco.",
+        "C) (04) quatro.",
+        "D) (07) sete."
+      ],
+      "img": null,
+      "ok": 3
+    }
+  ]
+};
